@@ -1,0 +1,20 @@
+input, select, option {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    outline: none;
+    padding: 10px 15px;
+    width: 100%;
+}
+
+button {
+    background-color: #4b70e2;
+    border-radius: 30px;
+    padding: 10px 45px;
+    color: white;
+    border: none;
+    outline: none;
+}
+
+.form-container {
+    width: 65%;
+}
